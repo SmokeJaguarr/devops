@@ -1,7 +1,4 @@
-# DevOps iescējiem 2# mājasdarbs 
-
-Foobar is a Python library for dealing with word pluralization.
-
+# DevOps iescējiem 2# mājasdarbs
 # Uzdevumi
 
 1) Salīdzināt vienādu failu (ne README) hash no mapes module_1 un
